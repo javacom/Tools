@@ -5,3 +5,8 @@ ldid
 version from origin
 and patched for cygwin
 and patched for ppc
+
+Tools
+xar
+dmg2img
+vbindiff
