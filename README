@@ -1,8 +1,7 @@
-mkdir ldid
-cd ldid
-git init
-touch README
-git add README
-git commit -m 'first commit'
-git remote add origin git@github.com:javacom/ldid.git
-git push origin master
+ldid 
+1.0.476
+1.0.610
+
+version from origin
+and patched for cygwin
+and patched for ppc
